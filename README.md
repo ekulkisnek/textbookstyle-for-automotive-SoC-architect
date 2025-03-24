@@ -1,3 +1,5 @@
+# This was created by chatgpt deep research, followed by having o3 mini high improve on each section to create essentially a textbook for the role.
+
 # **Introduction** {#introduction}
 
 Automotive systems-on-chip are the central processing engines within modern vehicles, orchestrating functions ranging from engine control and powertrain management to advanced driver-assistance systems and in-vehicle infotainment. These chips are engineered to perform complex sensor processing, execute real-time artificial intelligence algorithms, and manage an ever-growing array of electronic subsystems while operating under stringent constraints related to safety, reliability, and cost-effectiveness. Their design requires balancing peak computational throughput with deterministic response times, ensuring that critical systems function flawlessly even under adverse environmental conditions.
